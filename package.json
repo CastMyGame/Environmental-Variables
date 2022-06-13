@@ -1,0 +1,19 @@
+{
+  "name": "envvars",
+  "version": "1.0.0",
+  "description": "Environmental Variables",
+  "main": "env-server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"Environmental",
+    "Variables\""
+  ],
+  "author": "Chris Hart",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
